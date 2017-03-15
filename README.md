@@ -2,7 +2,7 @@
 
 ```java
 /**
- * App主界面Tab实现方法：ViewPager实现Tab(界面可滑动)
+ * App主界面Tab实现方法：ViewPager+PagerAdapter实现Tab(界面可滑动)
  *
  * 4个界面当做View放入List中，没有使用Fragment(3.0 推出)
  */
